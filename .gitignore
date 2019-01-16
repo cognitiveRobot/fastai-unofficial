@@ -7,4 +7,7 @@ venv*
 
 dogbreed
 dogscats
+images
+annotations
+
 __pycache__/
