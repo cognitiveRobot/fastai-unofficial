@@ -1,0 +1,10 @@
+#Environment
+
+venv
+venv/
+venv*
+
+
+dogbreed
+dogscats
+__pycache__/
