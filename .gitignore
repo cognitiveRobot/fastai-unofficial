@@ -10,4 +10,7 @@ dogscats
 images
 annotations
 
+# Jupyter Notebook
+.ipynb_checkpoints
+
 __pycache__/
